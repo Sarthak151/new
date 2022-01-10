@@ -5,4 +5,7 @@ conflicated
 
 Stashing
 made changes by team mate
+
 by teamate on remotemaster in bug3
+
+local master for 
