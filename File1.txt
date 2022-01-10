@@ -3,3 +3,4 @@ new
 Changes is master
 conflicated
 
+Stashing
