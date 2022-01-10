@@ -4,3 +4,4 @@ Changes is master
 conflicated
 
 Stashing
+made changes by team mate
